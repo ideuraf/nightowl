@@ -1,4 +1,5 @@
 ---
+layout: default
 ---
 
 # night owl
